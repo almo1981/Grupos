@@ -51,8 +51,8 @@ Julián David López Correa
 Luis Felipe Silva Vírgen
 
 
-Grupo eMEGASIM_OPAL (grupo nueve)
-Leinir David Cardoso
-Juan Alberto González Gómez
-Daniel Castro Uribe
+Grupo e-MegaSim-OPAL (grupo nueve)
+Leinel Cardoso
+Juan González
 Esteban Marin
+Daniel Castro
